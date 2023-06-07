@@ -1,8 +1,3 @@
-simplepage
-
-basic simple login page.
-
-<!DOCTYPE html>
 <html>
 <head>
   <title>Login Page</title>
